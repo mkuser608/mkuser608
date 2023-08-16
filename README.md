@@ -8,9 +8,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
-<a href="https://instagram.com/mukimondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhi_kedia" height="30" width="40" /></a>
+<a href="https://instagram.com/mukimondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mukesh_Kumar_Mandal" height="30" width="40" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://linkedin.com/in/mukimondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhi-kedia-5616581b4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mukimondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mukesh-Kumar-Mandal" height="30" width="40" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://drive.google.com/drive/folders/1au_g2dqSfAP-ystr-L3q_xxA7kK0flDw?usp=share_link  " target= "blank"><img align="center" width="40px" height="30" alt="Dev.to"  src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
